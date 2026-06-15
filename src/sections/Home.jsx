@@ -133,7 +133,7 @@ const Home = React.forwardRef((props, ref) => {
               transition={{ delay: 0.8, duration: 0.8 }}
             >
               Focused on reliability, security, and performance. 
-              Building production APIs and LLM systems — the kind that hold up under load and don't leak under pressure."
+              Building production APIs and LLM systems — the kind that hold up under load and don't leak under pressure.
             </motion.p>
 
             {/* buttons */}
