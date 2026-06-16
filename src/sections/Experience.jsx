@@ -4,7 +4,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 const experiences = [
   {
     role: "Backend Engineer",
-    company: "Cognitive Techware Private Limited",
+    company: "Exotel",
     duration: "Jun 2021 - Nov 2023",
     description: "Scaled enterprise APIs in Python and Go for 50K+ users.",
   },
