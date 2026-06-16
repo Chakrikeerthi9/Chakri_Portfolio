@@ -1,6 +1,6 @@
 # Keerthi Chakri — Portfolio
 
-**Live:** https://chakri-portfolio-rosy.vercel.app/
+**Live:** https://chakri-portfolio-ivory.vercel.app/
 
 Backend and AI Engineer. Built with React, Vite, Tailwind CSS, and Framer Motion.
 
