@@ -50,7 +50,7 @@ export default function About() {
             </p>
 
             <p className="mt-4 text-gray-300 leading-relaxed text-base sm:text-lg max-w-2xl md:max-w-3xl">
-            Started in backend engineering — Python, Go, FastAPI, production APIs at scale — then went deep into AI engineering: LLM gateways, RAG pipelines, semantic caching, and prompt security.
+              Started my career building backend systems with Python, Go, and FastAPI before expanding into AI engineering. Today, I build LLM-powered applications, MCP servers, RAG pipelines, semantic caching solutions, and secure AI infrastructure.
             </p>
 
             {/* Quick stats */}
