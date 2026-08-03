@@ -132,8 +132,7 @@ const Home = React.forwardRef((props, ref) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.8, duration: 0.8 }}
             >
-              Focused on reliability, security, and performance. 
-              Building production APIs and LLM systems — the kind that hold up under load and don't leak under pressure.
+              Backend Engineer building scalable APIs, AI infrastructure, and production-ready LLM applications. Focused on reliability, security, and systems that solve real-world problems.
             </motion.p>
 
             {/* buttons */}
