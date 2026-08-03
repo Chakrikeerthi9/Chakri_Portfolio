@@ -6,25 +6,25 @@ const experiences = [
     role: "Backend Engineer",
     company: "Exotel",
     duration: "Jun 2021 - Nov 2023",
-    description: "Scaled enterprise APIs in Python and Go for 50K+ users.",
+    description: "Built scalable backend services in Python and Go, developing production APIs and distributed systems that supported 50K+ active users.",
   },
   {
     role: "Master of Science, Computer Science",
     company: "University of Central Missouri",
     duration: "Jan 2024 - Dec 2025",
-    description: "Graduate studies in CS — focused on AI, ML, and distributed systems.",
+    description: "Focused on Artificial Intelligence, Machine Learning, Computer Vision, and Distributed Systems, applying research through production-oriented AI and backend projects.",
   },
   {
     role: "Backend Engineer Intern",
-    company: "ReplyQuickAI",
+    company: "PSVirtualSales",
     duration: "Jan 2026 - Apr 2026",
-    description: "Built HIPAA-compliant QR routing and cryptographic security middleware.",
+    description: "Built secure backend services for AI-powered healthcare workflows, including QR routing, HMAC authentication, and computer vision-assisted dental imaging",
   },
   {
     role: "Full Stack Engineer Intern",
     company: "SmileSyncAI",
     duration: "May 2026 - Present",
-    description: "Optimized Next.js app — PageSpeed 46 to 91+ across production.",
+    description: "Built MCP-based analytics infrastructure, secure healthcare applications, and production-ready Next.js systems with a focus on AI, backend engineering, and HIPAA-compliant analytics.",
   },
 ];
 
