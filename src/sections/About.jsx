@@ -109,10 +109,7 @@ export default function About() {
               About Me
             </h3>
             <p className="text-gray-300 leading-relaxed text-base sm:text-lg">
-            Spent three years building production APIs and backend systems in Python and Go, then went deep into AI engineering — LLM gateways, RAG pipelines, semantic caching, and prompt security. 
-            </p>
-            <p className="mt-4 text-gray-400 text-base sm:text-lg">
-            Recent work sits at the intersection of healthcare AI and computer vision — HIPAA-compliant APIs, clinical data pipelines, and medical imaging systems.
+            Over the past three years, I've built scalable backend services using Python, Go, PostgreSQL, and AWS before expanding into AI engineering. My recent work focuses on LLM-powered applications, MCP-based analytics, semantic caching, and secure AI systems for production environments.
             </p>
           </motion.div>
         </div>
